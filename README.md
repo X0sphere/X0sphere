@@ -1,9 +1,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=X0sphere.X0sphere" />
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=We+Have+A+Visitor!!;+Yeyy!!;" />
-</h1>
+</h1> -->
  <hr/>
  
 <h2 align="center">🥷🏿Tech Stack🥷🏿</h2>
